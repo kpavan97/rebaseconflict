@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is 
 added at repository
 rc2 text file
+=======
+this rc2 file is added in fb
+>>>>>>> 3b49d17 (rc2.txt is committed)
