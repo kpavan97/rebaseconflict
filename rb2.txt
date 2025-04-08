@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 thlo
 fnsah
 afslfj
 fapsjdf
+=======
+helo 
+cankam
+>>>>>>> 6a244cf (commits)
